@@ -142,12 +142,51 @@ apps/part1-sql/db/products.db
 
 ---
 
+## 🧠 Part 2 – JSON
+
+### 🎯 Objective
+
+Menyimpan 3 kolom operasional (ditambah `id` untuk relasi) ke format JSON, serta mengubah format tanggal menjadi `MM DD YYYY`:
+
+* id
+* stock
+* vendor
+* date_added (format diubah ke `MM DD YYYY`)
+
+---
+
+### ⚙️ Workflow
+
+```text
+CSV → Read Stream → Transform (Date Format) → Push to Array → Write JSON
+```
+
+---
+
+### 📄 Penjelasan File
+
+#### `apps/part2-json/index.js`
+
+| Section              | Fungsi                                       |
+| -------------------- | -------------------------------------------- |
+| Path Setup           | Menentukan lokasi CSV & folder JSON          |
+| Ensure JSON Folder   | Membuat folder `data/json/` jika belum ada   |
+| Process & Parse Data | Parsing CSV dan mengubah format tanggal      |
+| Write JSON           | Menyimpan array data ke dalam file `.json`   |
+
+---
+
+### 🗄️ Output
+
+File JSON:
+
+```
+data/json/operational_data.json
+```
+
+---
+
 ## 🔜 Next Steps (Not Implemented Yet)
-
-### Part 2 – JSON
-
-* Export 3 kolom operasional
-* Ubah format tanggal (Unix / MM-DD-YYYY)
 
 ### Part 3 – XML
 

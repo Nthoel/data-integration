@@ -2,9 +2,11 @@
   "name": "data-integration",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start1": "node apps/part1-sql/index.js",
+    "start2": "node apps/part2-json/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

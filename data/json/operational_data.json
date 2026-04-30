@@ -1,0 +1,602 @@
+[
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Dell Indonesia",
+    "date_added": "01 15 2023"
+  },
+  {
+    "id": null,
+    "stock": 8,
+    "vendor": "Apple Authorised",
+    "date_added": "02 20 2023"
+  },
+  {
+    "id": null,
+    "stock": 45,
+    "vendor": "Logitech Official",
+    "date_added": "03 05 2023"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Unknown",
+    "date_added": "03 10 2023"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "Samsung Parts",
+    "date_added": "12 04 2023"
+  },
+  {
+    "id": null,
+    "stock": 5,
+    "vendor": "Asus Global",
+    "date_added": "05 22 2023"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "Apple Authorised",
+    "date_added": "06 01 2023"
+  },
+  {
+    "id": null,
+    "stock": 18,
+    "vendor": "Sony Audio",
+    "date_added": "07 15 2023"
+  },
+  {
+    "id": null,
+    "stock": 7,
+    "vendor": "SteelSeries Indo",
+    "date_added": "08 10 2023"
+  },
+  {
+    "id": null,
+    "stock": 50,
+    "vendor": "WD Storage",
+    "date_added": "08 12 2023"
+  },
+  {
+    "id": null,
+    "stock": 30,
+    "vendor": "Razer Official",
+    "date_added": "09 01 2023"
+  },
+  {
+    "id": null,
+    "stock": 6,
+    "vendor": "Apple Authorised",
+    "date_added": "09 15 2023"
+  },
+  {
+    "id": null,
+    "stock": 14,
+    "vendor": "Unknown",
+    "date_added": "10 02 2023"
+  },
+  {
+    "id": null,
+    "stock": 11,
+    "vendor": "Bose Retail",
+    "date_added": "10 10 2023"
+  },
+  {
+    "id": null,
+    "stock": 3,
+    "vendor": "Canon Optic",
+    "date_added": "11 20 2023"
+  },
+  {
+    "id": null,
+    "stock": 25,
+    "vendor": "HyperX Gaming",
+    "date_added": "11 25 2023"
+  },
+  {
+    "id": null,
+    "stock": 9,
+    "vendor": "Nintendo ID",
+    "date_added": "12 05 2023"
+  },
+  {
+    "id": null,
+    "stock": 4,
+    "vendor": "Sony Entert",
+    "date_added": "12 12 2023"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Microsoft Store",
+    "date_added": "12 20 2023"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Amazon Global",
+    "date_added": "12 25 2023"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "GoPro Indo",
+    "date_added": "01 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 5,
+    "vendor": "DJI Official",
+    "date_added": "01 10 2024"
+  },
+  {
+    "id": null,
+    "stock": 40,
+    "vendor": "TP-Link Store",
+    "date_added": "01 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 22,
+    "vendor": "Unknown",
+    "date_added": "01 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 7,
+    "vendor": "Samsung Parts",
+    "date_added": "02 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "MSI Gaming",
+    "date_added": "02 14 2024"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "GSkill Indo",
+    "date_added": "02 25 2024"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Seagate Official",
+    "date_added": "03 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 30,
+    "vendor": "Crucial Tech",
+    "date_added": "03 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 4,
+    "vendor": "Gigabyte Indo",
+    "date_added": "03 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 18,
+    "vendor": "BeQuiet Official",
+    "date_added": "04 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "NZXT Store",
+    "date_added": "04 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 8,
+    "vendor": "Unknown",
+    "date_added": "04 12 2024"
+  },
+  {
+    "id": null,
+    "stock": 2,
+    "vendor": "Zotac Official",
+    "date_added": "04 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 6,
+    "vendor": "Palit Tech",
+    "date_added": "05 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 25,
+    "vendor": "Inno3D Indo",
+    "date_added": "05 10 2024"
+  },
+  {
+    "id": null,
+    "stock": 4,
+    "vendor": "Aorus Gaming",
+    "date_added": "05 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 40,
+    "vendor": "ASRock Official",
+    "date_added": "05 22 2024"
+  },
+  {
+    "id": null,
+    "stock": 60,
+    "vendor": "Lian Li Store",
+    "date_added": "06 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 5,
+    "vendor": "Phanteks Indo",
+    "date_added": "06 12 2024"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Thermaltake Off",
+    "date_added": "06 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 35,
+    "vendor": "Cooler Master ID",
+    "date_added": "07 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 9,
+    "vendor": "Unknown",
+    "date_added": "07 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 14,
+    "vendor": "FSP Power",
+    "date_added": "07 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "Seasonic Official",
+    "date_added": "07 25 2024"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "Deepcool Indo",
+    "date_added": "08 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 7,
+    "vendor": "Noctua Tech",
+    "date_added": "08 10 2024"
+  },
+  {
+    "id": null,
+    "stock": 100,
+    "vendor": "Arctic Official",
+    "date_added": "08 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Scythe Indo",
+    "date_added": "08 22 2024"
+  },
+  {
+    "id": null,
+    "stock": 50,
+    "vendor": "ID-Cooling Store",
+    "date_added": "09 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 40,
+    "vendor": "WD Storage",
+    "date_added": "09 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 80,
+    "vendor": "Kingston Official",
+    "date_added": "09 12 2024"
+  },
+  {
+    "id": null,
+    "stock": 25,
+    "vendor": "SanDisk Indo",
+    "date_added": "09 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 30,
+    "vendor": "TeamGroup Store",
+    "date_added": "09 25 2024"
+  },
+  {
+    "id": null,
+    "stock": 45,
+    "vendor": "Unknown",
+    "date_added": "10 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 18,
+    "vendor": "Patriot Official",
+    "date_added": "10 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 22,
+    "vendor": "ADATA Tech",
+    "date_added": "10 10 2024"
+  },
+  {
+    "id": null,
+    "stock": 60,
+    "vendor": "Hikvision Store",
+    "date_added": "10 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "Lexar Official",
+    "date_added": "10 22 2024"
+  },
+  {
+    "id": null,
+    "stock": 35,
+    "vendor": "Pioneer Indo",
+    "date_added": "10 30 2024"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Transcend Official",
+    "date_added": "11 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 55,
+    "vendor": "Netac Tech",
+    "date_added": "11 08 2024"
+  },
+  {
+    "id": null,
+    "stock": 70,
+    "vendor": "Colorful Indo",
+    "date_added": "11 15 2024"
+  },
+  {
+    "id": null,
+    "stock": 8,
+    "vendor": "Unknown",
+    "date_added": "11 20 2024"
+  },
+  {
+    "id": null,
+    "stock": 3,
+    "vendor": "Leadtek Store",
+    "date_added": "11 28 2024"
+  },
+  {
+    "id": null,
+    "stock": 5,
+    "vendor": "PNY Official",
+    "date_added": "12 01 2024"
+  },
+  {
+    "id": null,
+    "stock": 25,
+    "vendor": "Orico Store",
+    "date_added": "12 05 2024"
+  },
+  {
+    "id": null,
+    "stock": 100,
+    "vendor": "UGREEN Official",
+    "date_added": "12 12 2024"
+  },
+  {
+    "id": null,
+    "stock": 40,
+    "vendor": "Baseus Indo",
+    "date_added": "12 18 2024"
+  },
+  {
+    "id": null,
+    "stock": 30,
+    "vendor": "Anker Official",
+    "date_added": "12 25 2024"
+  },
+  {
+    "id": null,
+    "stock": 45,
+    "vendor": "Aukey Tech",
+    "date_added": "12 30 2024"
+  },
+  {
+    "id": null,
+    "stock": 60,
+    "vendor": "Choetech Indo",
+    "date_added": "01 05 2025"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "Belkin Official",
+    "date_added": "01 10 2025"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Unknown",
+    "date_added": "01 15 2025"
+  },
+  {
+    "id": null,
+    "stock": 50,
+    "vendor": "Apple Authorised",
+    "date_added": "01 22 2025"
+  },
+  {
+    "id": null,
+    "stock": 35,
+    "vendor": "Samsung Parts",
+    "date_added": "01 28 2025"
+  },
+  {
+    "id": null,
+    "stock": 80,
+    "vendor": "Xiaomi Official",
+    "date_added": "02 02 2025"
+  },
+  {
+    "id": null,
+    "stock": 70,
+    "vendor": "Huawei Store",
+    "date_added": "02 10 2025"
+  },
+  {
+    "id": null,
+    "stock": 40,
+    "vendor": "Amazfit Indo",
+    "date_added": "02 18 2025"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Garmin Official",
+    "date_added": "02 25 2025"
+  },
+  {
+    "id": null,
+    "stock": 5,
+    "vendor": "Suunto Store",
+    "date_added": "03 01 2025"
+  },
+  {
+    "id": null,
+    "stock": 8,
+    "vendor": "Polar Official",
+    "date_added": "03 08 2025"
+  },
+  {
+    "id": null,
+    "stock": 25,
+    "vendor": "Unknown",
+    "date_added": "03 15 2025"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "Seiko Indo",
+    "date_added": "03 22 2025"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "Fossil Official",
+    "date_added": "03 28 2025"
+  },
+  {
+    "id": null,
+    "stock": 18,
+    "vendor": "TicWatch Indo",
+    "date_added": "04 01 2025"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "Withings Tech",
+    "date_added": "04 05 2025"
+  },
+  {
+    "id": null,
+    "stock": 30,
+    "vendor": "Fitbit Store",
+    "date_added": "04 12 2025"
+  },
+  {
+    "id": null,
+    "stock": 7,
+    "vendor": "Wahoo Official",
+    "date_added": "04 20 2025"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Bryton Indo",
+    "date_added": "04 28 2025"
+  },
+  {
+    "id": null,
+    "stock": 50,
+    "vendor": "Cateye Store",
+    "date_added": "05 01 2025"
+  },
+  {
+    "id": null,
+    "stock": 4,
+    "vendor": "Sennheiser Off",
+    "date_added": "05 10 2025"
+  },
+  {
+    "id": null,
+    "stock": 9,
+    "vendor": "Unknown",
+    "date_added": "05 15 2025"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "AT Official",
+    "date_added": "05 22 2025"
+  },
+  {
+    "id": null,
+    "stock": 6,
+    "vendor": "AKG Indo",
+    "date_added": "06 01 2025"
+  },
+  {
+    "id": null,
+    "stock": 35,
+    "vendor": "Shure Store",
+    "date_added": "06 08 2025"
+  },
+  {
+    "id": null,
+    "stock": 12,
+    "vendor": "FiiO Official",
+    "date_added": "06 15 2025"
+  },
+  {
+    "id": null,
+    "stock": 15,
+    "vendor": "Topping Indo",
+    "date_added": "06 22 2025"
+  },
+  {
+    "id": null,
+    "stock": 10,
+    "vendor": "Ifi Audio",
+    "date_added": "06 28 2025"
+  },
+  {
+    "id": null,
+    "stock": 20,
+    "vendor": "JDS Labs Store",
+    "date_added": "07 01 2025"
+  }
+]

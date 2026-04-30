@@ -6,7 +6,7 @@ import { DatabaseSync } from "node:sqlite"
 // =======================
 // PATH SETUP
 // =======================
-const CSV_PATH = path.resolve("../../data/raw/master_data.csv")
+const CSV_PATH = path.resolve("./data/raw/master_data.csv")
 const DB_DIR = path.resolve("./db")
 const DB_PATH = path.join(DB_DIR, "products.db")
 
