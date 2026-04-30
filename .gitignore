@@ -17,10 +17,8 @@ lerna-debug.log*
 *.sqlite
 *.sqlite3
 *.db
-*.csv
 
 # Generated data
-data/output/
 apps/**/db/
 
 # Environment files
